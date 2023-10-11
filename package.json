@@ -1,0 +1,12 @@
+{
+  "name": "cursoweb",
+  "version": "1.0.0",
+  "description": "estudos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "eu",
+  "license": "ISC"
+}
